@@ -1,0 +1,6 @@
+PERA,Pera,Pera presionada,/Audio/LlamadaEntrante.wav
+PRES,Presencia,Presencia presionada,/Audio/presencia.wav
+CPRE,Cancelar Presencia,Cancelacion Presencia,/Audio/Cancelada.wav
+ALRM,Alarma,Llamado Doctor,/Audio/Medica.wav
+DPRA,DPRA,Desconexion Pera,/Audio/phone-off-hook-1.wav
+CPRA,CPRA,Conexion Pera,/Audio/notify.wav
